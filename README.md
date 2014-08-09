@@ -2,6 +2,6 @@ A script to extract .zip files on hosts that do not have a cPanel nor uncompress
 =========================================================================
 
 1. Upload this file to the root directory of your web hosting.
-4. Replace "filename" with the name of the file to be extracted.
-5. Navigate to the file in the browser (e.g. http://domain.com/filename.php).
-6. The file will be extracted.
+2. Replace "filename" with the name of the file to be extracted.
+3. Navigate to the file in the browser (e.g. http://domain.com/extract.php).
+4. The file will be extracted.
